@@ -1,0 +1,9 @@
+git
+maven
+Jenkins
+ansible
+dokers
+nexus
+kubernates
+jira
+sonarqube
